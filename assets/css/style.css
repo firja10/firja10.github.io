@@ -1122,8 +1122,10 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
-  color: #45505b;
+  /* background: #f7f8f9; */
+  background: #424242;
+  /* color: #45505b; */
+  color: #ffff;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
